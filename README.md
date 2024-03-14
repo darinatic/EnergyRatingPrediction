@@ -35,9 +35,9 @@ tioner in heating and a model to predict it in cooling.
 
 4. Also, describe, with summaries, visualisations, and by other means, the relation-
 ship, if any, between an air conditioner’s rating when cooling and its rating when
-
 heating. Is there evidence to believe that the relationship holds after accounting
 for the size, design, maker, and other properties of the AC?
+
 5. Discuss any data preprocessing and selection of attributes which have been applied.
 6. You need to provide the performance measures of your prediction results.
 7. Present all of your models, with particular attention to informing consumers about
